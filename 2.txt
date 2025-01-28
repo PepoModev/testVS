@@ -1,4 +1,3 @@
-River.txt:
 The river flowed very gently.
  It reflected the moonlight.
  Nearby, an owl hooted.
